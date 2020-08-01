@@ -6,7 +6,7 @@ all movies will show on the home screen after added click any movie title to vie
 
   ![demo](app-data/IMG-2.gif)               ![demo](app-data/IMG-1.gif)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://https://chandartiwari3.wixsite.com/site)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://chandartiwari3.wixsite.com/site)
 
 ## features
 - stack navigation
