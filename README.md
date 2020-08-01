@@ -27,3 +27,6 @@ Dillinger uses a number of open source projects to work properly:
 * [material Icons] - all kind of icons 
 * [visual studio code ] - awesome text editor by Microsoft
  
+## 📋 Requirements
+
+React Native apps may target iOS 10.0 and Android 4.1 (API 16) or newer. You may use Windows, macOS, or Linux as your development operating system, though building and running iOS  emulator apps is limited to macOS. Tools like [Expo](https://expo.io) can be used to work around this.
