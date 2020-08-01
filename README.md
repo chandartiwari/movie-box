@@ -14,7 +14,7 @@ all movies will show on the home screen after added click any movie title to vie
 - form input 
 - validation of form
 - star rating 
-- keybord avoiding view 
+- keyboard avoiding view 
 - floating add button 
 
 ### Tech
@@ -22,8 +22,8 @@ all movies will show on the home screen after added click any movie title to vie
 Dillinger uses a number of open source projects to work properly:
 
 * [node.js] - evented I/O for the backend
-* [react native] - cross plateform app enviroment !
-* [git] - git CMD to installs dependenxies
+* [react native] - cross platform app environment !
+* [git] - git CMD to installs dependencies
 * [material Icons] - all kind of icons 
-* [visual studio code ] - awesome text editor by microsoft
+* [visual studio code ] - awesome text editor by Microsoft
  
