@@ -6,10 +6,10 @@ all movies will show on the home screen after added click any movie title to vie
 
   ![demo](app-data/IMG-2.gif)               ![demo](app-data/IMG-1.gif)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://https://chandartiwari3.wixsite.com/site)
 
 ## features
-- stack navigation []
+- stack navigation
 - react state
 - form input 
 - validation of form
